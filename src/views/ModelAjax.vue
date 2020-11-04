@@ -6,8 +6,9 @@
         <div class="flex-content">
          <div class="button-group">
             <button type="button" @click="" class="small ui button">reset</button>
-            <button type="button" @click="" class="small ui button">option select from parent</button>
+            <button type="button" @click="showplayerfilter" class="small ui button">option select from parent</button>
           </div>
+          <div id="conatiner1">
           <h3>Dynamic Search with ajax (country name)</h3>
           <div>
             <model-list-select
@@ -20,24 +21,11 @@
             >
             </model-list-select>
           </div>
-        </div>
-        <div class="flex-result">
-          <h4>input text(searchText)</h4>
-          <p>{{searchText}}</p>
-          <table class="ui celled table">
-            <thead>
-            <tr>
-              <th>code</th>
-              <th>name</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-              <td>{{selectedCountry.code}}</td>
-              <td>{{selectedCountry.name}}</td>
-            </tr>
-            </tbody>
-          </table>
+          </div>
+                    <div id="conatiner2">
+                              <h3>fffjf</h3>
+
+</div>
         </div>
       </div>
     </div>
@@ -49,6 +37,7 @@
 <script>
 import { ModelListSelect } from '../lib'
 import axios from 'axios'
+ import Vue from 'vue';
 import { ajaxFindCountry } from '../data/countriesApi'
 
 export default {
@@ -64,6 +53,17 @@ export default {
       ajaxFindCountry(searchText).then(response => {
         this.countries = response
       })
+    },
+    showplayerfilter () {
+    new Vue({
+ el: '#conatiner1',
+ data () {
+   return {
+     isHidden: true
+   }
+ },
+})
+
     }
   },
   components: {
