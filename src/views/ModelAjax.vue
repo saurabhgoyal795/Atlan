@@ -4,6 +4,10 @@
     <div class="ui vertical segment">
       <div class="flexbox">
         <div class="flex-content">
+         <div class="button-group">
+            <button type="button" @click="" class="small ui button">reset</button>
+            <button type="button" @click="" class="small ui button">option select from parent</button>
+          </div>
           <h3>Dynamic Search with ajax (country name)</h3>
           <div>
             <model-list-select
