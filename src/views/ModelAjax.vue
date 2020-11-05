@@ -1,12 +1,15 @@
 <template>
+
   <div>
-      <img alt="Vue logo" src="../assets/banner.png" style="width:100%; height:400px">
-    <div class="ui vertical segment">
+    <img alt="Vue logo"  src="../assets/blurbg_v2_min.png" style="width:100vw; height:100vh"> </img>
+    <div class="ui vertical segment" style="position: fixed;display: block;top: 0;width: 100%;max-width: 500px;height: 100vh;background: #fff;left: calc((100vw - 500px)/2);">
+    <img alt="Vue logo" src="../assets/banner.png" style="width: 100%;">
       <div class="flexbox">
         <div class="flex-content">
          <div class="button-group">
-            <button type="button" @click="" class="small ui button">reset</button>
-            <button type="button" @click="showplayerfilter" class="small ui button">option select from parent</button>
+            <button type="button" @click="showteamfilter" class="small ui button">Team</button>
+            <button type="button" @click="showplayerfilter" class="small ui button">Players</button>
+            <button type="button" @click="showmostrunfilter" class="small ui button">Most Runs</button>
           </div>
           <div id="conatiner1">
           <h3>Search Team Name</h3>
@@ -34,6 +37,12 @@
               @searchchange="searchPlayer"
             >
             </model-list-select>
+          </div>
+        </div>
+           <div id="conatiner3">
+<h3>Search Most Run Data</h3>
+          <div>
+          
           </div>
         </div>
         </div>
@@ -79,6 +88,73 @@ export default {
  data () {
    return {
      isHidden: true
+   }
+ },
+}, {
+ el: '#conatiner2',
+ data () {
+   return {
+     isHidden: false
+   }
+ },
+}, {
+ el: '#conatiner3',
+ data () {
+   return {
+     isHidden: false
+   }
+ },
+})
+
+    },
+     showteamfilter () {
+    new Vue({
+ el: '#conatiner1',
+ data () {
+   return {
+     isHidden: false
+   }
+ },
+}),
+   new Vue({
+ el: '#conatiner2',
+ data () {
+   return {
+     isHidden: true
+   }
+ },
+}),
+  new Vue({
+ el: '#conatiner3',
+ data () {
+   return {
+     isHidden: false
+   }
+ },
+})
+    },
+     showmostrunfilter () {
+    new Vue({
+ el: '#conatiner1',
+ data () {
+   return {
+     isHidden: true
+   }
+ },
+})
+   new Vue({
+ el: '#conatiner2',
+ data () {
+   return {
+     isHidden: true
+   }
+ },
+})
+  new Vue({
+ el: '#conatiner3',
+ data () {
+   return {
+     isHidden: false
    }
  },
 })
