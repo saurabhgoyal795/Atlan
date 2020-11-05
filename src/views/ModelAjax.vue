@@ -5,11 +5,11 @@
     <div class="ui vertical segment" style="position: fixed;display: block;top: 0;width: 100%;max-width: 500px;height: 100vh;background: #fff;left: calc((100vw - 500px)/2);">
       <img alt="Vue logo" src="../assets/banner.png" style="width: 100%;">
       <div class="flexbox">
-        <div class="flex-content">
+        <div class="flex-content"  style="width: 80%;">
          <div class="button-group">
-          <button type="button" @click="showteamfilter" class="small ui button">Team</button>
-          <button type="button" @click="showplayerfilter" class="small ui button">Players</button>
-          <button type="button" @click="showmostrunfilter" class="small ui button">Most Runs</button>
+          <button type="button" @click="showteamfilter" style="padding: 8px 12px;" >Team</button>
+          <button type="button" @click="showplayerfilter" style="padding: 8px 12px; margin-left:8px">Players</button>
+          <button type="button" @click="showmostrunfilter" style="padding: 8px 12px; margin-left:8px">Most Runs</button>
         </div>
         <div id="conatiner1"  v-bind:class="[isActive ? show : 'hide']">
           <h3>Search Team Name</h3>
@@ -85,13 +85,13 @@ export default {
       })
     },
     showplayerfilter () {
-      this.isActive = true
-      this.isActive2 = false
+      this.isActive = false
+      this.isActive2 = true
       this.isActive3 = false
     },
     showteamfilter () {
-      this.isActive = false
-      this.isActive2 = true
+      this.isActive = true
+      this.isActive2 = false
       this.isActive3 = false
     },
     showmostrunfilter () {
