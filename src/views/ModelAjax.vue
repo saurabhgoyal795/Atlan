@@ -9,23 +9,33 @@
             <button type="button" @click="showplayerfilter" class="small ui button">option select from parent</button>
           </div>
           <div id="conatiner1">
-          <h3>Dynamic Search with ajax (country name)</h3>
+          <h3>Search Team Name</h3>
           <div>
             <model-list-select
               :list="countries"
-              option-value="code"
+              option-value="name"
               option-text="name"
               v-model="selectedCountry"
-              placeholder="select item"
+              placeholder="select team"
               @searchchange="searchCountry"
             >
             </model-list-select>
           </div>
           </div>
-                    <div id="conatiner2">
-                              <h3>fffjf</h3>
-
-</div>
+          <div id="conatiner2">
+<h3>Search Player Data</h3>
+          <div>
+            <model-list-select
+              :list="players"
+              option-value="A"
+              option-text="A"
+              v-model="selectedPlayer"
+              placeholder="select player"
+              @searchchange="searchPlayer"
+            >
+            </model-list-select>
+          </div>
+        </div>
         </div>
       </div>
     </div>
@@ -39,15 +49,24 @@ import { ModelListSelect } from '../lib'
 import axios from 'axios'
  import Vue from 'vue';
 import { ajaxFindCountry } from '../data/countriesApi'
+import { ajaxFindPlayer } from '../data/playersApi'
 
 export default {
   data () {
     return {
       countries: [],
-      selectedCountry: {}
+      players: [],
+      selectedCountry: {},
+      selectedPlayer: {}
     }
   },
   methods: {
+  searchPlayer (searchText) {
+      this.searchText = searchText
+      ajaxFindPlayer(searchText).then(response => {
+        this.players = response
+      })
+    },
     searchCountry (searchText) {
       this.searchText = searchText
       ajaxFindCountry(searchText).then(response => {

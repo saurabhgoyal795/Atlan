@@ -1,0 +1,3971 @@
+[
+ {
+   "A": "Player_Name",
+   "B": "DOB",
+   "C": "Batting_Hand",
+   "D": "Bowling_Skill",
+   "E": "Country"
+ },
+ {
+   "A": "A Ashish Reddy",
+   "B": "33293",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "A Chandila",
+   "B": "30655",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "A Chopra",
+   "B": "28387",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "A Choudhary",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Left-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "A Dananjaya",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "A Flintoff",
+   "B": "28465",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "England"
+ },
+ {
+   "A": "A Hales",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "A Joseph",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "A Kumble",
+   "B": "25858",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "A Mishra",
+   "B": "30279",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "A Mithun",
+   "B": "32806",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "A Mukund",
+   "B": "32879",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "A Nehra",
+   "B": "28974",
+   "C": "Right_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "A Nel",
+   "B": "28321",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "A Roy",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": ""
+ },
+ {
+   "A": "A Singh",
+   "B": "29758",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "A Symonds",
+   "B": "27554",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "A Turner",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "A Uniyal",
+   "B": "29911",
+   "C": "Right_Hand",
+   "D": "Left-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "A Zampa",
+   "B": "33694",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "Australia"
+ },
+ {
+   "A": "AA Bilakhia",
+   "B": "31563",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "AA Chavan",
+   "B": "31348",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "AA Jhunjhunwala",
+   "B": "30286",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "AA Kazi",
+   "B": "32780",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "AA Noffke",
+   "B": "28245",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "AB Agarkar",
+   "B": "28463",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "India"
+ },
+ {
+   "A": "AB Barath",
+   "B": "32977",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "AB de Villiers",
+   "B": "30729",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "AB Dinda",
+   "B": "30766",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "AB McDonald",
+   "B": "29742",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "Abdur Razzak",
+   "B": "30117",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Bangladesh"
+ },
+ {
+   "A": "AC Blizzard",
+   "B": "30860",
+   "C": "Left_Hand",
+   "D": "Left-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "AC Gilchrist",
+   "B": "26251",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "AC Thomas",
+   "B": "28165",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "England"
+ },
+ {
+   "A": "AC Voges",
+   "B": "29132",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Australia"
+ },
+ {
+   "A": "AD Mascarenhas",
+   "B": "28428",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "England"
+ },
+ {
+   "A": "AD Mathews",
+   "B": "31930",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "AD Nath",
+   "B": "34099",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "AD Russell",
+   "B": "32262",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "AF Milne",
+   "B": "33707",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "New Zealand"
+ },
+ {
+   "A": "AG Murtaza",
+   "B": "32874",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "AG Paunikar",
+   "B": "32251",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "AJ Finch",
+   "B": "31733",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Australia"
+ },
+ {
+   "A": "AJ Tye",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "AL Menaria",
+   "B": "33175",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "AM Nayar",
+   "B": "30597",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "AM Rahane",
+   "B": "32300",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "AM Salvi",
+   "B": "29879",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "AN Ahmed",
+   "B": "32452",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "AN Ghosh",
+   "B": "31704",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Anand Rajan",
+   "B": "31884",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Anirudh Singh",
+   "B": "29435",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Ankit Sharma",
+   "B": "33348",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "Ankit Soni",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak",
+   "E": ""
+ },
+ {
+   "A": "Anureet Singh",
+   "B": "32204",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "AP Dole",
+   "B": "32059",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "AP Majumdar",
+   "B": "30802",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "AP Tare",
+   "B": "32088",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "AR Bawne",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "AR Patel",
+   "B": "34354",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "AS Rajpoot",
+   "B": "34307",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "AS Raut",
+   "B": "31839",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "AS Yadav",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "AT Rayudu",
+   "B": "31313",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "AUK Pathan",
+   "B": "30850",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "AV Wankhade",
+   "B": "33677",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "Avesh Khan",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "Azhar Mahmood",
+   "B": "27453",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Pakistan"
+ },
+ {
+   "A": "B Akhil",
+   "B": "28405",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "B Aparajith",
+   "B": "34523",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "B Chipli",
+   "B": "30343",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "B Geeves",
+   "B": "30115",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "B Kumar",
+   "B": "32909",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "B Laughlin",
+   "B": "30227",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "B Lee",
+   "B": "28072",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "B Stanlake",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "B Sumanth",
+   "B": "32273",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "BA Bhatt",
+   "B": "33006",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "BA Stokes",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "Basil Thampi",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "BAW Mendis",
+   "B": "31117",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "BB McCullum",
+   "B": "29856",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "BB Samantray",
+   "B": "32491",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "BB Sran",
+   "B": "33948",
+   "C": "Left_Hand",
+   "D": "Left-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "BCJ Cutting",
+   "B": "31807",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "BE Hendricks",
+   "B": "33032",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "Bipul Sharma",
+   "B": "30587",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "BJ Haddin",
+   "B": "28421",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "Australia"
+ },
+ {
+   "A": "BJ Hodge",
+   "B": "27392",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "BJ Rohrer",
+   "B": "29671",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "BMAJ Mendis",
+   "B": "30331",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "BR Dunk",
+   "B": "31847",
+   "C": "Left_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "BW Hilfenhaus",
+   "B": "30390",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "C de Grandhomme",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak",
+   "E": ""
+ },
+ {
+   "A": "C Ganapathy",
+   "B": "29747",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "C Ingram",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "C Madan",
+   "B": "30239",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "C Munro",
+   "B": "31847",
+   "C": "Left_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "New Zealand"
+ },
+ {
+   "A": "C Nanda",
+   "B": "28943",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "CA Ingram",
+   "B": "31231",
+   "C": "Left_Hand",
+   "D": "Legbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "CA Lynn",
+   "B": "32973",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Australia"
+ },
+ {
+   "A": "CA Pujara",
+   "B": "32167",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "CH Gayle",
+   "B": "29119",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "West Indies"
+ },
+ {
+   "A": "CH Morris",
+   "B": "31897",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "CJ Anderson",
+   "B": "33220",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "New Zealand"
+ },
+ {
+   "A": "CJ Ferguson",
+   "B": "31007",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "CJ Jordan",
+   "B": "32420",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "England"
+ },
+ {
+   "A": "CJ McKay",
+   "B": "30367",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "CK Kapugedera",
+   "B": "31832",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "CK Langeveldt",
+   "B": "27380",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "England"
+ },
+ {
+   "A": "CL White",
+   "B": "30546",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "Australia"
+ },
+ {
+   "A": "CM Gautam",
+   "B": "31479",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "CR Brathwaite",
+   "B": "32342",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "West Indies"
+ },
+ {
+   "A": "CR Woakes",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "CRD Fernando",
+   "B": "29055",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "D du Preez",
+   "B": "29898",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "D Kalyankrishna",
+   "B": "30666",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "D Salunkhe",
+   "B": "30267",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "D Shorey",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "D Short",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": ""
+ },
+ {
+   "A": "D Wiese",
+   "B": "31185",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "D Willey",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "DA Miller",
+   "B": "32669",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "DA Warner",
+   "B": "31712",
+   "C": "Left_Hand",
+   "D": "Legbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "DAJ Bracewell",
+   "B": "33144",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "DB Das",
+   "B": "31677",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "DB Ravi Teja",
+   "B": "32025",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "DE Bollinger",
+   "B": "29791",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "DH Yagnik",
+   "B": "30489",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "DJ Bravo",
+   "B": "30596",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "DJ Harris",
+   "B": "29220",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "DJ Hooda",
+   "B": "34808",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "DJ Hussey",
+   "B": "28321",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "DJ Jacobs",
+   "B": "30259",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "DJ Muthuswami",
+   "B": "29654",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "DJ Thornely",
+   "B": "28764",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "DJG Sammy",
+   "B": "30670",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "DL Chahar",
+   "B": "33823",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "DL Vettori",
+   "B": "28882",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "New Zealand"
+ },
+ {
+   "A": "DM Bravo",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "DNT Zoysa",
+   "B": "28623",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "DP Nannes",
+   "B": "27896",
+   "C": "Right_Hand",
+   "D": "Left-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "DP Vijaykumar",
+   "B": "31705",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "DPMD Jayawardene",
+   "B": "28272",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "DR Martyn",
+   "B": "26227",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "DR Smith",
+   "B": "30418",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "West Indies"
+ },
+ {
+   "A": "DS Kulkarni",
+   "B": "32487",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "DS Lehmann",
+   "B": "25604",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Australia"
+ },
+ {
+   "A": "DT Christian",
+   "B": "30440",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "DT Patil",
+   "B": "31022",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "DW Steyn",
+   "B": "30494",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "E Lewis",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "EJG Morgan",
+   "B": "31665",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "England"
+ },
+ {
+   "A": "ER Dwivedi",
+   "B": "32346",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "F Behardien",
+   "B": "30598",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "F du Plessis",
+   "B": "30876",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "FH Edwards",
+   "B": "29988",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "FY Fazal",
+   "B": "31297",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "G Gambhir",
+   "B": "29873",
+   "C": "Left_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "Gagandeep Singh",
+   "B": "29862",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "GB Hogg",
+   "B": "25970",
+   "C": "Left_Hand",
+   "D": "Slow left-arm chinaman",
+   "E": "Australia"
+ },
+ {
+   "A": "GC Smith",
+   "B": "29618",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "GD McGrath",
+   "B": "25608",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "GH Vihari",
+   "B": "34255",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "GJ Bailey",
+   "B": "30201",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "GJ Maxwell",
+   "B": "32430",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "GR Napier",
+   "B": "29226",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "England"
+ },
+ {
+   "A": "GS Sandhu",
+   "B": "34134",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "Gurkeerat Singh",
+   "B": "33053",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "H Brar",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": ""
+ },
+ {
+   "A": "H Das",
+   "B": "31756",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "H Gurney",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "H Klaasen",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "H Vihari",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "H Viljoen",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "Harbhajan Singh",
+   "B": "29405",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Harmeet Singh",
+   "B": "33854",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "Harmeet Singh (2)",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "Harpreet Singh",
+   "B": "33461",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "HH Gibbs",
+   "B": "27083",
+   "C": "Right_Hand",
+   "D": "Right-arm bowler",
+   "E": "South Africa"
+ },
+ {
+   "A": "HH Pandya",
+   "B": "34253",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "HM Amla",
+   "B": "30406",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "HV Patel",
+   "B": "33200",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "I Malhotra",
+   "B": "30825",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "I Sharma",
+   "B": "32388",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "I Sodhi",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak googly",
+   "E": ""
+ },
+ {
+   "A": "IC Pandey",
+   "B": "32735",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "IK Pathan",
+   "B": "30982",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "Imran Tahir",
+   "B": "28941",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "Iqbal Abdulla",
+   "B": "32844",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "IR Jaggi",
+   "B": "32535",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "Ishan Kishan",
+   "B": "35994",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "J Archer",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "J Arunkumar",
+   "B": "27412",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "J Bairstow",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "J Behrendorff",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "J Botha",
+   "B": "30073",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "J Dala",
+   "B": "",
+   "C": "",
+   "D": "Right-arm Medium",
+   "E": ""
+ },
+ {
+   "A": "J Denly",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "J Searles",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "J Suchith",
+   "B": "34350",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "J Syed Mohammad",
+   "B": "30470",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "J Theron",
+   "B": "31252",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "J Yadav",
+   "B": "32895",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "JA Morkel",
+   "B": "29747",
+   "C": "Left_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "Jaskaran Singh",
+   "B": "32755",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "JC Buttler",
+   "B": "33124",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "England"
+ },
+ {
+   "A": "JD Ryder",
+   "B": "30900",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "JD Unadkat",
+   "B": "33529",
+   "C": "Right_Hand",
+   "D": "Left-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "JDP Oram",
+   "B": "28699",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "JDS Neesham",
+   "B": "33133",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "JE Taylor",
+   "B": "30855",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "New Zealand"
+ },
+ {
+   "A": "JEC Franklin",
+   "B": "29532",
+   "C": "Left_Hand",
+   "D": "Left-arm medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "JH Kallis",
+   "B": "27683",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "JJ Bumrah",
+   "B": "34309",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "JJ Roy",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "JJ van der Wath",
+   "B": "28500",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "JM Kemp",
+   "B": "28400",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "JO Holder",
+   "B": "33547",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "Joginder Sharma",
+   "B": "30612",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "JP Duminy",
+   "B": "30786",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "JP Faulkner",
+   "B": "32992",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "JR Hopes",
+   "B": "28787",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "JW Hastings",
+   "B": "31355",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "K Ahmed",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Left-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "K Goel",
+   "B": "31770",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "K Gowtham",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "K Khejroliya",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "K Paul",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "K Rabada",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "K Santokie",
+   "B": "31036",
+   "C": "Left_Hand",
+   "D": "Left-arm medium",
+   "E": "West Indies"
+ },
+ {
+   "A": "K Upadhyay",
+   "B": "31581",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "KA Pollard",
+   "B": "31909",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "KAJ Roach",
+   "B": "32324",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "Kamran Akmal",
+   "B": "29964",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "Pakistan"
+ },
+ {
+   "A": "Kamran Khan",
+   "B": "33307",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "Karanveer Singh",
+   "B": "32089",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "KB Arun Karthik",
+   "B": "31458",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "KC Cariappa",
+   "B": "34437",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "KC Sangakkara",
+   "B": "28425",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "KD Karthik",
+   "B": "31199",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "KH Devdhar",
+   "B": "32856",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "KH Pandya",
+   "B": "33321",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "KJ Abbott",
+   "B": "31946",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "KK Cooper",
+   "B": "32555",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "West Indies"
+ },
+ {
+   "A": "KK Nair",
+   "B": "33578",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "KL Rahul",
+   "B": "33712",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "KM Asif",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": ""
+ },
+ {
+   "A": "KM Jadhav",
+   "B": "31132",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "KMDN Kulasekara",
+   "B": "30154",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "KP Appanna",
+   "B": "32497",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "KP Pietersen",
+   "B": "29399",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "KS Williamson",
+   "B": "33093",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "New Zealand"
+ },
+ {
+   "A": "Kuldeep Yadav",
+   "B": "34682",
+   "C": "Left_Hand",
+   "D": "Slow left-arm chinaman",
+   "E": "India"
+ },
+ {
+   "A": "KV Sharma",
+   "B": "32073",
+   "C": "Left_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "KW Richardson",
+   "B": "33281",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "L Ablish",
+   "B": "30288",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "L Balaji",
+   "B": "29856",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "L Ferguson",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "L Livingstone",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "L Ngidi",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": ""
+ },
+ {
+   "A": "L Plunkett",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "L Ronchi",
+   "B": "29699",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "LA Carseldine",
+   "B": "27715",
+   "C": "Left_Hand",
+   "D": "Legbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "LA Pomersbach",
+   "B": "30953",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "LH Ferguson",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "LJ Wright",
+   "B": "31113",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "England"
+ },
+ {
+   "A": "LMP Simmons",
+   "B": "31072",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "West Indies"
+ },
+ {
+   "A": "LPC Silva",
+   "B": "29203",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "LR Shukla",
+   "B": "29712",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "LRPL Taylor",
+   "B": "30749",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "New Zealand"
+ },
+ {
+   "A": "M Ali",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "M Ashwin",
+   "B": "33124",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "M de Lange",
+   "B": "33159",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "M Kaif",
+   "B": "29556",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "M Kartik",
+   "B": "28014",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "M Klinger",
+   "B": "29406",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "Australia"
+ },
+ {
+   "A": "M Lomror",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": ""
+ },
+ {
+   "A": "M Manhas",
+   "B": "29140",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "M Markande",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak googly",
+   "E": ""
+ },
+ {
+   "A": "M Morkel",
+   "B": "30961",
+   "C": "Left_Hand",
+   "D": "Right-arm fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "M Muralitharan",
+   "B": "26406",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "M Ntini",
+   "B": "28312",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "M Rawat",
+   "B": "31345",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "M Santner",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": ""
+ },
+ {
+   "A": "M Ur Rahman",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "M Vijay",
+   "B": "30773",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "M Vohra",
+   "B": "34168",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "M Wood",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "MA Agarwal",
+   "B": "33285",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "MA Khote",
+   "B": "29333",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "MA Starc",
+   "B": "32903",
+   "C": "Left_Hand",
+   "D": "Left-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "Mandeep Singh",
+   "B": "33590",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Mashrafe Mortaza",
+   "B": "30594",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Bangladesh"
+ },
+ {
+   "A": "MB Parmar",
+   "B": "32245",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "MC Henriques",
+   "B": "31809",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "MC Juneja",
+   "B": "33128",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "MD Mishra",
+   "B": "30721",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "MDKJ Perera",
+   "B": "33102",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "MEK Hussey",
+   "B": "27541",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "MF Maharoof",
+   "B": "30932",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "MG Johnson",
+   "B": "29892",
+   "C": "Left_Hand",
+   "D": "Left-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "MG Neser",
+   "B": "32961",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "Misbah-ul-Haq",
+   "B": "27177",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "Pakistan"
+ },
+ {
+   "A": "MJ Clarke",
+   "B": "29678",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Australia"
+ },
+ {
+   "A": "MJ Guptill",
+   "B": "31685",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "New Zealand"
+ },
+ {
+   "A": "MJ Henry",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "MJ Lumb",
+   "B": "29263",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "England"
+ },
+ {
+   "A": "MJ McClenaghan",
+   "B": "31574",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "MK Pandey",
+   "B": "32761",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "MK Tiwary",
+   "B": "31365",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "ML Hayden",
+   "B": "26235",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "MM Patel",
+   "B": "30509",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "MM Sharma",
+   "B": "32404",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "MN Samuels",
+   "B": "29622",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "West Indies"
+ },
+ {
+   "A": "MN van Wyk",
+   "B": "28934",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "South Africa"
+ },
+ {
+   "A": "Mohammad Ashraful",
+   "B": "30870",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Bangladesh"
+ },
+ {
+   "A": "Mohammad Asif",
+   "B": "30305",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Pakistan"
+ },
+ {
+   "A": "Mohammad Hafeez",
+   "B": "29511",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Pakistan"
+ },
+ {
+   "A": "Mohammad Nabi",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "Mohammed Shami",
+   "B": "33119",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "Mohammed Siraj",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "MP Stoinis",
+   "B": "32736",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "MR Marsh",
+   "B": "33531",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "MS Bisla",
+   "B": "31043",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "MS Dhoni",
+   "B": "29774",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "MS Gony",
+   "B": "30685",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "MS Wade",
+   "B": "32137",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "Mustafizur Rahman",
+   "B": "34948",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "Bangladesh"
+ },
+ {
+   "A": "MV Boucher",
+   "B": "28097",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "N Naik",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "N Pooran",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "N Rana",
+   "B": "34330",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "N Saini",
+   "B": "32444",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "India"
+ },
+ {
+   "A": "NB Singh",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "ND Doshi",
+   "B": "28769",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "Niraj Patel",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "NJ Maddinson",
+   "B": "33593",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Australia"
+ },
+ {
+   "A": "NJ Rimmington",
+   "B": "30266",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "NK Patel",
+   "B": "29671",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "NL McCullum",
+   "B": "29465",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "New Zealand"
+ },
+ {
+   "A": "NLTC Perera",
+   "B": "32601",
+   "C": "Left_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "NM Coulter-Nile",
+   "B": "32061",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "NS Naik",
+   "B": "34647",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "NV Ojha",
+   "B": "30517",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "O Thomas",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "OA Shah",
+   "B": "28785",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "England"
+ },
+ {
+   "A": "P Amarnath",
+   "B": "30103",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "P Awana",
+   "B": "31612",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "P Chopra",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "P Dharmani",
+   "B": "27299",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "P Dogra",
+   "B": "31005",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "P Krishna",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "P Kumar",
+   "B": "31687",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "P Negi",
+   "B": "33975",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "P Parameswaran",
+   "B": "31197",
+   "C": "Right_Hand",
+   "D": "Left-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "P Prasanth",
+   "B": "31189",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "P R Barman",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak",
+   "E": ""
+ },
+ {
+   "A": "P Raj",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Left-arm medium",
+   "E": ""
+ },
+ {
+   "A": "P Sahu",
+   "B": "31280",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "P Shaw",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "P Suyal",
+   "B": "32796",
+   "C": "Right_Hand",
+   "D": "Left-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "PA Patel",
+   "B": "31115",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "PA Reddy",
+   "B": "33280",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "Pankaj Singh",
+   "B": "31173",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "Parvez Rasool",
+   "B": "32552",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "PC Valthaty",
+   "B": "30657",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "PD Collingwood",
+   "B": "27906",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "England"
+ },
+ {
+   "A": "PJ Cummins",
+   "B": "34097",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "PJ Sangwan",
+   "B": "33182",
+   "C": "Right_Hand",
+   "D": "Left-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "PM Sarvesh Kumar",
+   "B": "32624",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "PP Chawla",
+   "B": "32501",
+   "C": "Left_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "PP Ojha",
+   "B": "31660",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "PR Shah",
+   "B": "32084",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "PSP Handscomb",
+   "B": "33354",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "Australia"
+ },
+ {
+   "A": "PV Tambe",
+   "B": "26214",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "Q de Kock",
+   "B": "33955",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "South Africa"
+ },
+ {
+   "A": "R Ashwin",
+   "B": "31672",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "R Bhatia",
+   "B": "29150",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "R Bhui",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "R Bishnoi",
+   "B": "32058",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "R Dhawan",
+   "B": "32923",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "R Dravid",
+   "B": "26675",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "R McLaren",
+   "B": "30356",
+   "C": "Left_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "R Ninan",
+   "B": "31370",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "R Parag",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak",
+   "E": ""
+ },
+ {
+   "A": "R Rampaul",
+   "B": "30970",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "West Indies"
+ },
+ {
+   "A": "R Salam",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm Fast",
+   "E": ""
+ },
+ {
+   "A": "R Sathish",
+   "B": "29600",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "R Sharma",
+   "B": "31897",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "R Shukla",
+   "B": "33113",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "R Singh",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "R Tewatia",
+   "B": "34109",
+   "C": "Left_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "R Vinay Kumar",
+   "B": "30724",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "RA Jadeja",
+   "B": "32483",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "RA Shaikh",
+   "B": "31210",
+   "C": "Left_Hand",
+   "D": "Left-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "RA Tripathi",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm medium",
+   "E": ""
+ },
+ {
+   "A": "Rashid Khan",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak googly",
+   "E": ""
+ },
+ {
+   "A": "RD Chahar",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak googly",
+   "E": ""
+ },
+ {
+   "A": "RE Levi",
+   "B": "32156",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "RE van der Merwe",
+   "B": "31047",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "South Africa"
+ },
+ {
+   "A": "RG More",
+   "B": "33636",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "RG Sharma",
+   "B": "31897",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "RJ Harris",
+   "B": "29139",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "RJ Peterson",
+   "B": "29071",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "South Africa"
+ },
+ {
+   "A": "RJ Quiney",
+   "B": "30183",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "RN ten Doeschate",
+   "B": "29402",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "Netherlands"
+ },
+ {
+   "A": "RP Singh",
+   "B": "31387",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "RR Bhatkal",
+   "B": "31291",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "RR Bose",
+   "B": "28913",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "RR Pant",
+   "B": "35707",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "RR Powar",
+   "B": "28630",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "RR Raje",
+   "B": "31658",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "RR Rossouw",
+   "B": "32790",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "South Africa"
+ },
+ {
+   "A": "RR Sarwan",
+   "B": "29395",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "West Indies"
+ },
+ {
+   "A": "RS Bopara",
+   "B": "31171",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "England"
+ },
+ {
+   "A": "RS Gavaskar",
+   "B": "27810",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "RS Sodhi",
+   "B": "29512",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "RT Ponting",
+   "B": "27382",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "RV Gomez",
+   "B": "31336",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "RV Pawar",
+   "B": "29104",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "RV Uthappa",
+   "B": "31362",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "RW Price",
+   "B": "27923",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Zimbabwea"
+ },
+ {
+   "A": "S Anirudha",
+   "B": "31881",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "S Aravind",
+   "B": "30780",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "S Badree",
+   "B": "29654",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "West Indies"
+ },
+ {
+   "A": "S Badrinath",
+   "B": "29463",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "S Chanderpaul",
+   "B": "27257",
+   "C": "Left_Hand",
+   "D": "Legbreak",
+   "E": "West Indies"
+ },
+ {
+   "A": "S Curran",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": ""
+ },
+ {
+   "A": "S Dhawan",
+   "B": "31386",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "S Dube",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "S Gill",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "S Gopal",
+   "B": "34216",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "S Hetmyer",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "S Kaul",
+   "B": "33012",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "S Kaushik",
+   "B": "34949",
+   "C": "Right_Hand",
+   "D": "Slow left-arm chinaman",
+   "E": "India"
+ },
+ {
+   "A": "S Kuggeleijn",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": ""
+ },
+ {
+   "A": "S Ladda",
+   "B": "31603",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "S Lamichhane",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Legbreak googly",
+   "E": ""
+ },
+ {
+   "A": "S Mavi",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "S Midhun",
+   "B": "",
+   "C": "",
+   "D": "Legbreak",
+   "E": ""
+ },
+ {
+   "A": "S Nadeem",
+   "B": "32732",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "S Narwal",
+   "B": "30057",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "S Rana",
+   "B": "30943",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "S Randiv",
+   "B": "31077",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "S Rutherford",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "S Sharma",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "S Singh",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "S Sohal",
+   "B": "32091",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "S Sreesanth",
+   "B": "30353",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "S Sriram",
+   "B": "27811",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "S Tyagi",
+   "B": "32037",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "S Vidyut",
+   "B": "29923",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "S Warrier",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "SA Abbott",
+   "B": "33663",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "SA Asnodkar",
+   "B": "30770",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "SA Yadav",
+   "B": "33130",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Sachin Baby",
+   "B": "32495",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Salman Butt",
+   "B": "30962",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Pakistan"
+ },
+ {
+   "A": "Sandeep Sharma",
+   "B": "34107",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "SB Bangar",
+   "B": "26583",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "SB Jakati",
+   "B": "29552",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "SB Joshi",
+   "B": "25725",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "SB Styris",
+   "B": "27585",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "SB Wagh",
+   "B": "32425",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "SC Ganguly",
+   "B": "26488",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "SD Chitnis",
+   "B": "31903",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "SD Lad",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "SE Bond",
+   "B": "27552",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "New Zealand"
+ },
+ {
+   "A": "SE Marsh",
+   "B": "30506",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Australia"
+ },
+ {
+   "A": "Shahid Afridi",
+   "B": "29281",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "Pakistan"
+ },
+ {
+   "A": "Shakib Al Hasan",
+   "B": "31860",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Bangladesh"
+ },
+ {
+   "A": "Shivam Sharma",
+   "B": "34221",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Shoaib Ahmed",
+   "B": "33102",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Pakistan"
+ },
+ {
+   "A": "Shoaib Akhtar",
+   "B": "27619",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Pakistan"
+ },
+ {
+   "A": "Shoaib Malik",
+   "B": "29983",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Pakistan"
+ },
+ {
+   "A": "SJ Srivastava",
+   "B": "29851",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "SK Raina",
+   "B": "31743",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "SK Trivedi",
+   "B": "30198",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "SK Warne",
+   "B": "25459",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "Australia"
+ },
+ {
+   "A": "SL Malinga",
+   "B": "30556",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "SM Boland",
+   "B": "32609",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "SM Harwood",
+   "B": "27089",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "SM Katich",
+   "B": "27627",
+   "C": "Left_Hand",
+   "D": "Slow left-arm chinaman",
+   "E": "Australia"
+ },
+ {
+   "A": "SM Pollock",
+   "B": "26861",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "SMSM Senanayake",
+   "B": "31087",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "SN Khan",
+   "B": "35730",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": "India"
+ },
+ {
+   "A": "SN Thakur",
+   "B": "33527",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Sohail Tanvir",
+   "B": "31028",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "Pakistan"
+ },
+ {
+   "A": "SP Fleming",
+   "B": "26755",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "New Zealand"
+ },
+ {
+   "A": "SP Goswami",
+   "B": "32646",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "SP Jackson",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "SP Narine",
+   "B": "32289",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "West Indies"
+ },
+ {
+   "A": "SPD Smith",
+   "B": "32661",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "SR Tendulkar",
+   "B": "26778",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "SR Watson",
+   "B": "29754",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Australia"
+ },
+ {
+   "A": "SS Agarwal",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": ""
+ },
+ {
+   "A": "SS Iyer",
+   "B": "34674",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "SS Mundhe",
+   "B": "32443",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "SS Sarkar",
+   "B": "31031",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "SS Shaikh",
+   "B": "31795",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "SS Tiwary",
+   "B": "32872",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "ST Jayasuriya",
+   "B": "25384",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "STR Binny",
+   "B": "30836",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Sunny Gupta",
+   "B": "32413",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Sunny Singh",
+   "B": "31764",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "SV Samson",
+   "B": "34649",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "SW Billings",
+   "B": "33404",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "England"
+ },
+ {
+   "A": "SW Tait",
+   "B": "30369",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "Australia"
+ },
+ {
+   "A": "Swapnil Singh",
+   "B": "33260",
+   "C": "Right_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "T Curran",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Right-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "T Henderson",
+   "B": "27242",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "South Africa"
+ },
+ {
+   "A": "T Kohli",
+   "B": "32494",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "T Mishra",
+   "B": "31768",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "T Natarajan",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": ""
+ },
+ {
+   "A": "T Shamsi",
+   "B": "32922",
+   "C": "Right_Hand",
+   "D": "Slow left-arm chinaman",
+   "E": "South Africa"
+ },
+ {
+   "A": "T Taibu",
+   "B": "30450",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Zimbabwea"
+ },
+ {
+   "A": "T Thushara",
+   "B": "29646",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "TA Boult",
+   "B": "32711",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "New Zealand"
+ },
+ {
+   "A": "TD Paine",
+   "B": "31024",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "Tejas Baroka",
+   "B": "",
+   "C": "",
+   "D": "Legbreak googly",
+   "E": ""
+ },
+ {
+   "A": "TG Southee",
+   "B": "32488",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "New Zealand"
+ },
+ {
+   "A": "TL Suman",
+   "B": "30665",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "TM Dilshan",
+   "B": "28047",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "TM Head",
+   "B": "34332",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "Australia"
+ },
+ {
+   "A": "TM Srivastava",
+   "B": "32819",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "TP Sudhindra",
+   "B": "30796",
+   "C": "Left_Hand",
+   "D": "Right-arm fast",
+   "E": "India"
+ },
+ {
+   "A": "TR Birt",
+   "B": "29929",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "TS Mills",
+   "B": "",
+   "C": "Right_hand",
+   "D": "Left-arm fast",
+   "E": ""
+ },
+ {
+   "A": "U Kaul",
+   "B": "32113",
+   "C": "Left_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "UA Birla",
+   "B": "32829",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "UBT Chand",
+   "B": "34054",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Umar Gul",
+   "B": "30786",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "Pakistan"
+ },
+ {
+   "A": "UT Khawaja",
+   "B": "31764",
+   "C": "Left_Hand",
+   "D": "Right-arm medium",
+   "E": "Australia"
+ },
+ {
+   "A": "UT Yadav",
+   "B": "32075",
+   "C": "Right_Hand",
+   "D": "Right-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "V Chakravarthy",
+   "B": "",
+   "C": "Right_Hand",
+   "D": "Legbreak",
+   "E": ""
+ },
+ {
+   "A": "V Kohli",
+   "B": "32452",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "V Pratap Singh",
+   "B": "33727",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "V Sehwag",
+   "B": "28783",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "V Shankar",
+   "B": "33264",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "VH Zol",
+   "B": "34661",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Vishnu Vinod",
+   "B": "",
+   "C": "Right_hand",
+   "D": "",
+   "E": ""
+ },
+ {
+   "A": "VR Aaron",
+   "B": "32810",
+   "C": "Right_Hand",
+   "D": "Right-arm fast",
+   "E": "India"
+ },
+ {
+   "A": "VRV Singh",
+   "B": "30942",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "VS Malik",
+   "B": "30445",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "VS Yeligati",
+   "B": "31160",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "VVS Laxman",
+   "B": "27334",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "VY Mahesh",
+   "B": "32132",
+   "C": "Right_Hand",
+   "D": "Right-arm medium-fast",
+   "E": "India"
+ },
+ {
+   "A": "W Jaffer",
+   "B": "28537",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "WA Mota",
+   "B": "29849",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Washington Sundar",
+   "B": "",
+   "C": "Left_Hand",
+   "D": "Right-arm offbreak",
+   "E": ""
+ },
+ {
+   "A": "WD Parnell",
+   "B": "32719",
+   "C": "Left_Hand",
+   "D": "Left-arm medium-fast",
+   "E": "South Africa"
+ },
+ {
+   "A": "WP Saha",
+   "B": "30979",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "WPUJC Vaas",
+   "B": "27056",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "Sri Lanka"
+ },
+ {
+   "A": "X Thalaivan Sargunam",
+   "B": "31182",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Y Gnaneswara Rao",
+   "B": "30919",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "Y Nagar",
+   "B": "32879",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Y Venugopal Rao",
+   "B": "30008",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "YA Abdulla",
+   "B": "30333",
+   "C": "Left_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "India"
+ },
+ {
+   "A": "Yashpal Singh",
+   "B": "29917",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "India"
+ },
+ {
+   "A": "YK Pathan",
+   "B": "30272",
+   "C": "Right_Hand",
+   "D": "Right-arm offbreak",
+   "E": "India"
+ },
+ {
+   "A": "Younis Khan",
+   "B": "28458",
+   "C": "Right_Hand",
+   "D": "Right-arm medium",
+   "E": "Pakistan"
+ },
+ {
+   "A": "YS Chahal",
+   "B": "33077",
+   "C": "Right_Hand",
+   "D": "Legbreak googly",
+   "E": "India"
+ },
+ {
+   "A": "Yuvraj Singh",
+   "B": "29932",
+   "C": "Left_Hand",
+   "D": "Slow left-arm orthodox",
+   "E": "India"
+ },
+ {
+   "A": "YV Takawale",
+   "B": "30991",
+   "C": "Right_Hand",
+   "D": null,
+   "E": "India"
+ },
+ {
+   "A": "Z Khan",
+   "B": "28770",
+   "C": "Right_Hand",
+   "D": "Left-arm fast-medium",
+   "E": "India"
+ }
+]
