@@ -41,20 +41,18 @@
     </div>
     <div id="conatiner3"  v-bind:class="[isActive3 ? show : 'hide']">
       <h3>Search Most Run Data</h3>
-         <div>
-          <model-list-select
-          :list="mostruns"
-          option-value="batsman"
-          option-text="batsman"
-          v-model="selectedMostRunPlayer"
-          placeholder="Search Player"
-          @searchchange="searchPlayerWithMostRun"
-          >
-        </model-list-select>
-      </div>
+      <div>
+        <model-list-select
+        :list="mostruns"
+        option-value="batsman"
+        option-text="batsman"
+        v-model="selectedMostRunPlayer"
+        placeholder="Search Player"
+        @searchchange="searchPlayerWithMostRun"
+        >
+      </model-list-select>
     </div>
   </div>
-</div>
 </div>
 </div>
 </div>
@@ -63,8 +61,6 @@
 
 <script>
 import { ModelListSelect } from '../lib'
-import axios from 'axios'
-import Vue from 'vue';
 import { ajaxFindCountry } from '../data/countriesApi'
 import { ajaxFindPlayer } from '../data/playersApi'
 import { ajaxFindMostRun } from '../data/mostrunsApi'
