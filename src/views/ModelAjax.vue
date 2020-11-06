@@ -1,7 +1,7 @@
 <template>
 
   <div>
-    <img alt="Vue logo"  src="../assets/blurbg_v2_min.png" style="width:100vw; height:100vh"> </img>
+    <img alt="Vue logo"  src="../assets/blurbg_v2_min.png" style="width:100vw; height:100vh"/>
     <div class="ui vertical segment" style="position: fixed;display: block;top: 0;width: 100%;max-width: 500px;height: 100vh;background: #fff;left: calc((100vw - 500px)/2);">
       <img alt="Vue logo" src="../assets/banner.png" style="width: 100%;">
       <div class="flexbox">
@@ -76,7 +76,7 @@ export default {
       isActive3: false,
       selectedCountry: {},
       selectedPlayer: {},
-      selectedMostRunPlayer : {}
+      selectedMostRunPlayer: {}
     }
   },
   methods: {

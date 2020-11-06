@@ -6,11 +6,8 @@
   </div>
 </template>
 <script>
-import OutboundLink from './components/OutboundLink'
-
 export default {
   components: {
-    OutboundLink
   }
 }
 </script>
