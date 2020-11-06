@@ -1,6 +1,6 @@
 import player from './mostruns.json'
 
-export function ajaxFindPlayerWithMostRuns (query) {
+export function ajaxFindMostRun (query) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       const results = player.filter((element, index, array) => {

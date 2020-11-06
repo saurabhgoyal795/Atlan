@@ -41,7 +41,16 @@
     </div>
     <div id="conatiner3"  v-bind:class="[isActive3 ? show : 'hide']">
       <h3>Search Most Run Data</h3>
-      <div>
+         <div>
+          <model-list-select
+          :list="mostruns"
+          option-value="batsman"
+          option-text="batsman"
+          v-model="selectedMostRunPlayer"
+          placeholder="Search Player"
+          @searchchange="searchPlayerWithMostRun"
+          >
+        </model-list-select>
       </div>
     </div>
   </div>
@@ -58,17 +67,20 @@ import axios from 'axios'
 import Vue from 'vue';
 import { ajaxFindCountry } from '../data/countriesApi'
 import { ajaxFindPlayer } from '../data/playersApi'
+import { ajaxFindMostRun } from '../data/mostrunsApi'
 
 export default {
   data () {
     return {
       countries: [],
       players: [],
+      mostruns: [],
       isActive: true,
       isActive2: false,
       isActive3: false,
       selectedCountry: {},
-      selectedPlayer: {}
+      selectedPlayer: {},
+      selectedMostRunPlayer : {}
     }
   },
   methods: {
@@ -76,6 +88,12 @@ export default {
       this.searchText = searchText
       ajaxFindPlayer(searchText).then(response => {
         this.players = response
+      })
+    },
+    searchPlayerWithMostRun (searchText) {
+      this.searchText = searchText
+      ajaxFindMostRun(searchText).then(response => {
+        this.mostruns = response
       })
     },
     searchCountry (searchText) {
