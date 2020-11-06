@@ -87,6 +87,10 @@ export default {
       selectedPlayer: {},
       selectedMostRunPlayer: {}
     }
+  },created () {
+    this.searchPlayer('')
+    this.searchPlayerWithMostRun('')
+    this.searchCountry('')
   },
   methods: {
     searchPlayer (searchText) {
