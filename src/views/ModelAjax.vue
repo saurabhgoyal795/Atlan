@@ -24,35 +24,44 @@
             >
           </model-list-select>
         </div>
-      </div>
-      <div id="conatiner2"  v-bind:class="[isActive2 ? show : 'hide']">
-        <h3>Search Player Data</h3>
-        <div>
-          <model-list-select
-          :list="players"
-          option-value="A"
-          option-text="A"
-          v-model="selectedPlayer"
-          placeholder="select player"
-          @searchchange="searchPlayer"
-          >
-        </model-list-select>
-      </div>
-    </div>
-    <div id="conatiner3"  v-bind:class="[isActive3 ? show : 'hide']">
-      <h3>Search Most Run Data</h3>
+        <div style="margin-top: 16px;color: rebeccapurple;">
+         {{selectedCountry.text}}
+       </div>
+     </div>
+     <div id="conatiner2"  v-bind:class="[isActive2 ? show : 'hide']">
+      <h3>Search Player Data</h3>
       <div>
         <model-list-select
-        :list="mostruns"
-        option-value="batsman"
-        option-text="batsman"
-        v-model="selectedMostRunPlayer"
-        placeholder="Search Player"
-        @searchchange="searchPlayerWithMostRun"
+        :list="players"
+        option-value="A"
+        option-text="A"
+        v-model="selectedPlayer"
+        placeholder="select player"
+        @searchchange="searchPlayer"
         >
       </model-list-select>
+      <div style="margin-top: 16px;color: rebeccapurple;">
+         Player Name : {{selectedPlayer.A}} <br> Team : {{selectedPlayer.E}}  <br>  Batting Hand : {{selectedPlayer.C}}  <br>  Bowling Skill : {{selectedPlayer.D}}
+       </div>
     </div>
   </div>
+  <div id="conatiner3"  v-bind:class="[isActive3 ? show : 'hide']">
+    <h3>Search Most Run Data</h3>
+    <div>
+      <model-list-select
+      :list="mostruns"
+      option-value="batsman"
+      option-text="batsman"
+      v-model="selectedMostRunPlayer"
+      placeholder="Search Player"
+      @searchchange="searchPlayerWithMostRun"
+      >
+    </model-list-select>
+     <div style="margin-top: 16px;color: rebeccapurple;">
+         Player Name : {{selectedMostRunPlayer.batsman}} <br> Total Run  : {{selectedMostRunPlayer.total_runs}}  <br>  Batting Average : {{selectedMostRunPlayer.average}}  <br>  Strike Rate : {{selectedMostRunPlayer.strikerate}}
+       </div>
+  </div>
+</div>
 </div>
 </div>
 </div>
