@@ -8,10 +8,10 @@ export default new Router({
   routes: [
     {
       path: '/',
-      redirect: '/model-ajax'
+      redirect: '/ipl'
     },
     // model
 
-    { path: '/model-ajax', component: ModelAjax },
+    { path: '/ipl', component: ModelAjax }
   ]
 })
