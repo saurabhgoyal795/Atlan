@@ -7,13 +7,10 @@
 </template>
 <script>
 import OutboundLink from './components/OutboundLink'
-import { Button } from '@progress/kendo-buttons-vue-wrapper';
 
 export default {
   components: {
-    OutboundLink,
-   'k-button': Button
-
+    OutboundLink
   }
 }
 </script>
